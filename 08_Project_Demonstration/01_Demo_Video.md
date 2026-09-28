@@ -5,8 +5,7 @@
 ### ?? Click Below to Watch Demo:
 **[?? WATCH DEMO VIDEO HERE](https://drive.google.com/file/d/1-bax0JOx9ToW83QocrX_bEqM6lJMsTwj/view?usp=sharing)**
 
-> Direct Link: https://drive.google.com/file/d/1-bax0JOx9ToW83QocrX_bEqM6lJMsTwj/view?usp=sharing
-
+> Direct Link: https://drive.google.com/file/d/1bXZ2mtgimm0sYIqCw0UIwmWKwNQTo5lY/view?usp=sharing
 This video demonstrates the complete working of EduGenie AI project.
 
 ## Features Demonstrated
@@ -18,3 +17,14 @@ This video demonstrates the complete working of EduGenie AI project.
 
 ## GitHub Repository
 https://github.com/ushaulaganathan514-hash/Gemini-AI
+# 08 - Project Demonstration - EduGenie AI
+
+## 🎬 Demo Video
+
+### ▶️ Watch Demo:
+**[🎥 CLICK HERE - WATCH DEMO VIDEO](https://drive.google.com/file/d/1-bax0JOx9ToW83QocrX_bEqM6lJMsTwj/view?usp=sharing)**
+
+> Direct Link: https://drive.google.com/file/d/1-bax0JOx9ToW83QocrX_bEqM6lJMsTwj/view?usp=sharing
+
+---
+### 📄 Documentation: See `07_Project_Documentation/01_Project_Documentation.md`
