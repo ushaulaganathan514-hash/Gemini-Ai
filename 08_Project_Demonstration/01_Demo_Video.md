@@ -1,8 +1,11 @@
 # 08 - Project Demonstration - EduGenie AI
 
 ## ?? Project Demo Video
-**Final Demo Link:**
-https://drive.google.com/file/d/1bXZ2mtgimm0sYIqCwU0iUmWKwNQTo5lY/view?usp=sharing
+
+### ?? Click Below to Watch Demo:
+**[?? WATCH DEMO VIDEO HERE](https://drive.google.com/file/d/1-bax0JOx9ToW83QocrX_bEqM6lJMsTwj/view?usp=sharing)**
+
+> Direct Link: https://drive.google.com/file/d/1-bax0JOx9ToW83QocrX_bEqM6lJMsTwj/view?usp=sharing
 
 This video demonstrates the complete working of EduGenie AI project.
 
