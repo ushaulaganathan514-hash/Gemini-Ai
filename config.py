@@ -1,0 +1,13 @@
+from pydantic_settings import BaseSettings
+
+
+class Settings(BaseSettings):
+    gemini_api_key: str = ""
+    gemini_model: str = "gemini-3.8-flash"
+
+    class Config:
+        env_file = ".env"
+        extra = "ignore"
+
+
+settings = Settings()

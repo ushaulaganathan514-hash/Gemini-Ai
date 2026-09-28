@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.mp4
+*.avi
+06_Project_Testing/
+08_Project_Demonstration/

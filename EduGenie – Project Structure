@@ -1,0 +1,26 @@
+EduGenie-AI/
+│
+├── .env
+├── .gitignore
+├── requirements.txt
+│
+├── main.py
+├── config.py
+├── gemini_client.py
+├── models.py
+│
+├── qna.py
+├── explanation_module.py
+├── quiz_module.py
+├── summary_module.py
+├── learning_path.py
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    ├── css/
+    │   └── style.css
+    │
+    └── js/
+        └── app.js
